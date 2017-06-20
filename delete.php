@@ -1,3 +1,5 @@
+//here user can delete the record.
+
 <html>
 <body>
 <?php
