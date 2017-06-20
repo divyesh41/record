@@ -1,3 +1,5 @@
+//here, user can add user name and age.
+
 <html>
 <body>
 <?php
